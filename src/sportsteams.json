@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "New York Giants!",
+        "image": "assets/giants.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "New Orleans Saints",
+        "image": "assets/saints.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "San Francisco 49ers",
+        "image": "assets/49ers.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Washington Red Skins",
+        "image": "assets/redskins.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Pittsburgh Steelers",
+        "image": "assets/steelers.png",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "New York Jets",
+        "image": "assets/jets.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Miami Dolphins",
+        "image": "assets/dolphins.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Buffalo Bills",
+        "image": "assets/bills.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "New England Patriots",
+        "image": "assets/patriots.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Denver Broncos",
+        "image": "assets/broncos.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Los Angeles Rams",
+        "image": "assets/rams.png",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Tennessee Titans",
+        "image": "assets/titans.png",
+        "clicked": false
+    }
+]
